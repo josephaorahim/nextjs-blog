@@ -24,15 +24,15 @@ Using Markdown is different than using a WYSIWYG editor. Instead of using an app
 ***          
 
 ### PARAGRAPHS, HEADERS, BLOCKQUOTES
-
+***
 Paragraphs are one or more consecutive lines of text seprarted by one or more blank lines. A blank line is any line that looks blank -- spaces or tabs are considered blank.
 
-Markdown offers two styles of headers: Setext and atx. Setext-style headers for \<h1> or \<h2> are created by "underlining" with equal signs (=) and hyphens (-). To create an atx-style header, you put 1-6 hash marks (#) at the beginning of the link.  
+Markdown offers two styles of headers: Setext and atx. Setext-style headers for &lt;h1&gt; or &lt;h2&gt; are created by "underlining" with equal signs (=) and hyphens (-). To create an atx-style header, you put 1-6 hash marks (#) at the beginning of the link.  
 
-> BLOCKQUOTES.
+> BLOCKQUOTES
 
-> More BLOCKQUOTES
+> MORE BLOCKQUOTES
 
-> ## BLOCKQUOTES in H2
+> ## BLOCKQUOTES H2
 
 ### PHRASE EMPHASIS

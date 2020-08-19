@@ -12,7 +12,7 @@ Markdown is a text-to-HTML conversion tool for web writers that it makes it easy
 * Markdown is easy to learn
 * Markdown can be used for documentation, notetaking, and presenting
 
-![What Markdown looks like in an editor](../public/images/atom.png "What Markdown Looks Like")
+![What Markdown looks like in an editor](/images/atom.png "What Markdown Looks Like")
 
 ## What is Markdown?
 ***

@@ -1,5 +1,4 @@
 ---
-title: 'Intro to API's'
-date: '2020-08-19'
+title: 'Intro to API'
+date: '2020-08-18'
 ---
-# Full Stack MERN - Backend
